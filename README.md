@@ -14,7 +14,7 @@ Portfólio de Data Science
 **Background in:** C++, desenvolvimento de hardwares eletrônicos.
 
 **Links:**
-* [LinkedIn](https://https://www.linkedin.com/in/www.linkedin.com/in/wpc23)
+* [LinkedIn](https://https://www.linkedin.com/in/wpc23)
 
 
 
