@@ -11,10 +11,10 @@ Portfólio de Data Science
 
 
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** C++, desenvolvimento de hardwares eletrônicos.
 
 **Links:**
-* [LinkedIn](https://https://www.linkedin.com/in/wagner-pompeo-a8856a9a)
+* [LinkedIn](https://https://www.linkedin.com/in/www.linkedin.com/in/wpc23)
 
 
 
