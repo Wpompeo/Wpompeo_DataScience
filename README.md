@@ -1,11 +1,7 @@
 # Wpompeo_DataScience
 Portfólio de projetos de Data Science
 
-[![author](https://img.shields.io/badge/Wpompeo-red.svg)] [![](https://img.shields.io/badge/python-3.7+-blue.svg)]
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/carlosfab/template_portfolio/master/banner.png" >
-</p>
 
 # Wagner Pompeo
 <sub>*Desenvolver de software em C/C++, estudante de Data Science</sub>
