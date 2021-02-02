@@ -7,11 +7,11 @@ Portfólio de Data Science
 </p>
 
 # Wagner Pompeo
-<sub>*Big Data Student and software developer</sub>
+<sub>*Desenvolver de software em C/C++, estudante de Data Science</sub>
 
 
 
-**Background in:** C++, desenvolvimento de hardwares eletrônicos e descobrindo o mundo de Dados.
+**Background in:** C/C++, desenvolvimento de hardwares eletrônicos e descobrindo o mundo de Dados.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/wpc23)
