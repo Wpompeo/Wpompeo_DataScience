@@ -2,7 +2,7 @@
 Portfólio de projetos de Data Science
 
 <p align="center">
-  <img scr="">
+  <img scr="https://raw.githubusercontent.com/Wpompeo/Wpompeo_DataScience/master/banner.png">
 </p>
 
 
