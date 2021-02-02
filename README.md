@@ -1,11 +1,9 @@
-# Wpompeo_DataScience
+# DataScience
 Portfólio de projetos de Data Science
 
 <p align="center">
   <img src="banner.png">
 </p>
-
-
 
 # Wagner Pompeo
 <sub>*Desenvolver de software em C/C++, estudante de Data Science</sub>
