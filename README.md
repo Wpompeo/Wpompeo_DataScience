@@ -20,7 +20,7 @@ Portfólio de Data Science
 
 ## Projetos:
 
-* **Criando gráficos Waffes:** https://github.com/Wpompeo/Wpompeo_DataScience/blob/master/Gerando%20gr%C3%A1ficos%20de%20Waffle%20e%20barras%20em%20estudo%20sobre%20Covid-19%20no%20Brasil.ipynb
+* **Criando gráficos Waffes:** https://bit.ly/3oDyA29
 
 
 
