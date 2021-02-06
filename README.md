@@ -19,7 +19,7 @@ Portfólio de projetos de Data Science
 
 ## Projetos:
 
-* **Criando gráficos Waffes:** https://bit.ly/3oDyA29
+* **Analisando dados do Airbnb:** https://bit.ly/3oDyA29
 
 
 
