@@ -19,7 +19,7 @@ Portfólio de projetos de Data Science
 
 ## Projetos:
 
-* **Analisando dados do Airbnb:** https://bit.ly/39XspSJ
+* **Analisando dados do Airbnb:** https://bit.ly/3cOMEDF
 
 
 
