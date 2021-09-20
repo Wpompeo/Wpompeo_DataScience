@@ -21,6 +21,7 @@ Portfólio de projetos de Data Science
 
 * **Analisando dados do Airbnb:** https://bit.ly/3cOMEDF
 * **Analisando a violência no Rio de Janeiro:** https://bit.ly/3uIqIk8
+* **Setembro amarelo:** https://bityli.com/Kbr9Nt
 
 
 
